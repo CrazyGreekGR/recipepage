@@ -1,0 +1,111 @@
+body {
+    background-color: #f3e5d8;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.recipe {
+    background-color: white;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #5a1f39;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+h2 {
+    color: #5a1f39;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #5a1f39;
+}
+
+.preptime {
+    background-color: #fff7fc;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+.preptimetext {
+    color: #5a1f39;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+ul, ol {
+    padding: 0;
+    text-align: left;
+    margin: 0 0 20px 20px;
+}
+
+ul {
+    list-style: disc inside;
+}
+
+.prepitems li {
+    color: #5a1f39;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+
+
+ol li {
+    position: relative;
+    padding-left: 25px;
+    margin-bottom: 10px;
+}
+
+
+
+strong {
+    color: #000;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #f3e5d8;
+    color: #5a1f39;
+}
+
+td {
+    color: #000;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
